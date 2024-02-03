@@ -17,7 +17,7 @@ O projeto "ONE Encryptor" é um aplicativo web que permite criptografar e descri
 - Layout responsivo para diferentes tamanhos de tela.<br><br>
   
 <p align="center">
-<img align="center" alt="Rafa-Js" height="400" width="600" src="https://github.com/Gandara247/gandara247/assets/120376565/bcd1e75f-b49f-4566-8e76-35ba1d31a9f6">
+<img align="center" alt="Rafa-Js" height="400" width="650" src="https://github.com/Gandara247/gandara247/assets/120376565/bcd1e75f-b49f-4566-8e76-35ba1d31a9f6">
 </p>
 
 <a href="">
